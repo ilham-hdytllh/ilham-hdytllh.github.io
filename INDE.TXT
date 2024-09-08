@@ -48,7 +48,7 @@
         <div class="info-content">
           <h1 class="name" title="Richard hanrick">Ilham Hidayatullah</h1>
 
-          <p class="title">Web developer & Mobile developer</p>
+          <p class="title">Web Developer & Mobile Developer</p>
         </div>
 
         <button class="info_more-btn" data-sidebar-btn>
@@ -207,7 +207,7 @@
 
         <section class="service">
 
-          <h3 class="h3 service-title">My Skill</h3>
+          <h3 class="h3 service-title">My Skills</h3>
 
           <ul class="service-list">
 
@@ -221,7 +221,7 @@
                 <h4 class="h4 service-item-title">Web Development</h4>
 
                 <p class="service-item-text">
-                  Pengembangan situs web berkualitas dan profesional.
+                  Pengembangan situs web profesional dan berkualitas.
                 </p>
               </div>
 
@@ -248,147 +248,6 @@
           </ul>
 
         </section>
-
-
-        <!--
-          - skills
-                -->
-
-        <section class="skill">
-          <h3 class="h3 skills-title">Tools & Framework</h3>
-          <ul class="skills-list content-card">
-            <li class="skill-item">
-              <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
-                <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" />
-              </a>
-            </li>
-            <li class="skill-item">
-              <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-                <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                  alt="css3" />
-              </a>
-            </li>
-            <li class="skill-item">
-              <a href="https://dart.dev" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" />
-              </a>
-            </li>
-            <li class="skill-item">
-              <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" />
-              </a>
-            </li>
-            <li class="skill-item">
-              <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" />
-              </a>
-            </li>
-            <li class="skill-item">
-              <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" />
-              </a>
-            </li>
-            <li class="skill-item">
-              <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
-              </a>
-            </li>
-            <li class="skill-item">
-              <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-                <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                  alt="html5" />
-              </a>
-            </li>
-            <li class="skill-item">
-              <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                  alt="javascript" />
-              </a>
-            </li>
-            <li class="skill-item">
-              <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-                <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" />
-              </a>
-            </li>
-            <li class="skill-item">
-              <a href="https://postman.com" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" />
-              </a>
-            </li>
-            <li class="skill-item">
-              <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-                <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                  alt="mysql" />
-              </a>
-            </li>
-            <li class="skill-item">
-              <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-                <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                  alt="nodejs" />
-              </a>
-            </li>
-            <li class="skill-item">
-              <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-                <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" />
-              </a>
-            </li>
-            <li class="skill-item">
-              <a href="https://www.php.net" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-                  alt="php" />
-              </a>
-            </li>
-
-          </ul>
-        </section>
-
-
-
-
-        <div class="modal-container" data-modal-container>
-
-          <div class="overlay" data-overlay></div>
-
-          <section class="testimonials-modal">
-
-            <button class="modal-close-btn" data-modal-close-btn>
-              <ion-icon name="close-outline"></ion-icon>
-            </button>
-
-            <div class="modal-img-wrapper">
-              <figure class="modal-avatar-box">
-                <img src="./assets/images/avatar-1.png" alt="Daniel lewis" width="80" data-modal-img>
-              </figure>
-
-              <img src="./assets/images/icon-quote.svg" alt="quote icon">
-            </div>
-
-            <div class="modal-content">
-
-              <h4 class="h3 modal-title" data-modal-title>Daniel lewis</h4>
-
-              <time datetime="2021-06-14">14 June, 2021</time>
-
-              <div data-modal-text>
-                <p>
-                  Richard was hired to create a corporate identity. We were very pleased with the work done. She has a
-                  lot of experience
-                  and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt
-                  consectetur adipiscing
-                  elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-                </p>
-              </div>
-
-            </div>
-
-          </section>
-
-        </div>
 
 
       </article>
@@ -421,21 +280,28 @@
 
             <li class="timeline-item">
 
-              <h4 class="h4 timeline-item-title">Institut Teknologi dan Bisnis Bina Sarana Global</h4>
+              <h4 class="h4 timeline-item-title">Global Institute of Technology and Business</h4>
 
               <span>2020 — 2024</span>
 
               <p class="timeline-text">
-                Teknik Informatika | Software Engineering
+                Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et
+                quas molestias
+                exceptur.
               </p>
 
             </li>
 
             <li class="timeline-item">
 
-              <h4 class="h4 timeline-item-title">SMAN 11 Kota Tangerang</h4>
+              <h4 class="h4 timeline-item-title">Public High School 11 Tangerang</h4>
 
               <span>2015 — 2018</span>
+
+              <p class="timeline-text">
+                Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est
+                omnis..
+              </p>
 
             </li>
 
@@ -457,28 +323,28 @@
 
             <li class="timeline-item">
 
-              <h4 class="h4 timeline-item-title">Web Developer at PT Indo Taichen Textile Industry</h4>
+              <h4 class="h4 timeline-item-title">Web Developer</h4>
 
               <span>2024 — Present</span>
 
               <p class="timeline-text">
-                Membangun aplikasi web menggunakan Laravel/CodeIgniter/PHP Native, mengelola database, membuat mini ERP,
-                memperbaiki bug
-                di produksi, dan memelihara aplikasi yang sudah berjalan.
+                Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas
+                molestias
+                exceptur.
               </p>
 
             </li>
 
             <li class="timeline-item">
 
-              <h4 class="h4 timeline-item-title">Mobile Developer at PT Innotia Power Nusantara</h4>
+              <h4 class="h4 timeline-item-title">Mobile Developer</h4>
 
               <span>2022 — 2024</span>
 
               <p class="timeline-text">
-                Membangun aplikasi mobile untuk Android dan iOS menggunakan Flutter, mengintegrasikan API, menguji dan
-                memperbaiki bug,
-                serta memelihara aplikasi.
+                Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et
+                quas molestias
+                exceptur.
               </p>
 
             </li>
@@ -490,14 +356,63 @@
               <span>2020 — 2022</span>
 
               <p class="timeline-text">
-                Melakukan instalasi dan perbaikan perangkat komputer, membangun serta memelihara jaringan LAN, serta
-                memberikan edukasi
-                kepada pengguna tentang sistem ERP dan mengawasinya.
+                Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et
+                quas molestias
+                exceptur.
               </p>
 
             </li>
 
           </ol>
+
+        </section>
+
+        <section class="skill">
+
+          <h3 class="h3 skills-title">My skills</h3>
+
+          <ul class="skills-list content-card">
+
+            <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">Web Developer</h5>
+                <data value="80">80%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 80%;"></div>
+              </div>
+
+            </li>
+
+            <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">Mobile Developer</h5>
+                <data value="70">70%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 70%;"></div>
+              </div>
+
+            </li>
+
+            <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">WordPress</h5>
+                <data value="50">50%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 50%;"></div>
+              </div>
+
+            </li>
+
+          </ul>
 
         </section>
 
@@ -523,6 +438,10 @@
 
             <li class="filter-item">
               <button class="active" data-filter-btn>All</button>
+            </li>
+
+            <li class="filter-item">
+              <button data-filter-btn>Web design</button>
             </li>
 
             <li class="filter-item">
@@ -554,6 +473,10 @@
               </li>
 
               <li class="select-item">
+                <button data-select-item>Web design</button>
+              </li>
+
+              <li class="select-item">
                 <button data-select-item>Applications</button>
               </li>
 
@@ -567,6 +490,60 @@
 
           <ul class="project-list">
 
+            <li class="project-item  active" data-filter-item data-category="web development">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/project-1.jpg" alt="finance" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Finance</h3>
+
+                <p class="project-category">Web development</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web development">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/project-2.png" alt="orizon" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Orizon</h3>
+
+                <p class="project-category">Web development</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web design">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/project-3.jpg" alt="fundo" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Fundo</h3>
+
+                <p class="project-category">Web design</p>
+
+              </a>
+            </li>
+
             <li class="project-item  active" data-filter-item data-category="applications">
               <a href="#">
 
@@ -575,12 +552,48 @@
                     <ion-icon name="eye-outline"></ion-icon>
                   </div>
 
-                  <img src="./assets/images/mobile_app/foodmenu.jpg" alt="brawlhalla" loading="lazy">
+                  <img src="./assets/images/project-4.png" alt="brawlhalla" loading="lazy">
                 </figure>
 
-                <h3 class="project-title">Food Ordering Restaurant</h3>
+                <h3 class="project-title">Brawlhalla</h3>
 
                 <p class="project-category">Applications</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web design">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/project-5.png" alt="dsm." loading="lazy">
+                </figure>
+
+                <h3 class="project-title">DSM.</h3>
+
+                <p class="project-category">Web design</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web design">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/project-6.png" alt="metaspark" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">MetaSpark</h3>
+
+                <p class="project-category">Web design</p>
 
               </a>
             </li>
@@ -597,6 +610,42 @@
                 </figure>
 
                 <h3 class="project-title">Summary</h3>
+
+                <p class="project-category">Web development</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="applications">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/project-8.jpg" alt="task manager" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Task Manager</h3>
+
+                <p class="project-category">Applications</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web development">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/project-9.png" alt="arrival" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Arrival</h3>
 
                 <p class="project-category">Web development</p>
 
